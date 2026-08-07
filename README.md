@@ -56,7 +56,7 @@ How reliably can calibrated soil-moisture readings be used by a low-cost ESP32 f
 ## Hardware
 
 - ESP32 development board
-- Capacitive soil moisture sensor
+- Resistive soil moisture sensor module
 - 16x2 I2C LCD display
 - Small water pump and tubing
 - LED
