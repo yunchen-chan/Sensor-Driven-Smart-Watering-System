@@ -1,6 +1,6 @@
 # Design and Preliminary Validation of a Low-Cost ESP32-Based Soil-Moisture Feedback Irrigation System
 
-# From Smart Agriculture Research to an Automatic Watering Prototype
+## Project Background
 
 I first created a school science-communication project about climate change, SCL water-retention technology, and smart agriculture. I made a poster, recorded an introduction video, displayed the project at school, and collected 30 survey responses.
 
