@@ -21,7 +21,7 @@ The project explores how sensor data and simple programming logic can support mo
 
 ## Research Question
 
-How can calibrated soil-moisture readings be used in a low-cost ESP32 system to reduce unnecessary watering?
+How reliably can calibrated soil-moisture readings be used by a low-cost ESP32 feedback system to detect dry soil and trigger automatic irrigation?
 
 ## Main Features
 
