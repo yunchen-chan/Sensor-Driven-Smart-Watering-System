@@ -23,6 +23,10 @@ The project explores how sensor data and simple programming logic can support mo
 
 How reliably can calibrated soil-moisture readings be used by a low-cost ESP32 feedback system to detect dry soil and trigger automatic irrigation?
 
+## Research Objective
+
+The objective of this project is to design, calibrate, and preliminarily evaluate a low-cost automatic irrigation controller that uses soil-moisture feedback to identify dry conditions and activate a water pump safely.
+
 ## Main Features
 
 - ESP32 programmed with MicroPython
