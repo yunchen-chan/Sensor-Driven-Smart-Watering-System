@@ -39,7 +39,15 @@ Based on preliminary sensor observations, I hypothesized that a calibrated ADC t
 - LED indicator during watering
 - Automatic water pump control
 - Sensor calibration based on experimental data
+- 
+## Methodology
 
+1. Individual hardware components were tested separately before being integrated into the final prototype.
+2. The soil-moisture sensor was tested in wet, slightly dry, and very dry soil to observe differences in raw ADC readings.
+3. Based on these observations, a raw ADC value of 2200 was selected as the preliminary dryness threshold.
+4. The program averages five consecutive sensor readings to reduce short-term signal fluctuation.
+5. The pump, LCD, LED, and sensor-failure response were tested as parts of the complete automatic-control system.
+6. 
 ## System Logic
 
 1. The ESP32 reads the soil moisture sensor.
