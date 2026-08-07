@@ -1,4 +1,4 @@
-# Sensor-Driven Smart Watering System
+# Design and Preliminary Validation of a Low-Cost ESP32-Based Soil-Moisture Feedback Irrigation System
 
 # From Smart Agriculture Research to an Automatic Watering Prototype
 
