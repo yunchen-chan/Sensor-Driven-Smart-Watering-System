@@ -27,6 +27,10 @@ How reliably can calibrated soil-moisture readings be used by a low-cost ESP32 f
 
 The objective of this project is to design, calibrate, and preliminarily evaluate a low-cost automatic irrigation controller that uses soil-moisture feedback to identify dry conditions and activate a water pump safely.
 
+## Hypothesis
+
+Based on preliminary sensor observations, I hypothesized that a calibrated ADC threshold could distinguish dry soil from adequately moist soil, trigger irrigation when necessary, and prevent pump activation when the sensor signal was abnormal.
+
 ## Main Features
 
 - ESP32 programmed with MicroPython
