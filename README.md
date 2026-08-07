@@ -4,7 +4,7 @@
 
 I first created a school science-communication project about climate change, SCL water-retention technology, and smart agriculture. I made a poster, recorded an introduction video, displayed the project at school, and collected 30 survey responses.
 
-I then turned one idea from that project into a working computer-science prototype: a low-cost ESP32 smart watering system.
+I then developed one idea from that project into a working interdisciplinary embedded-systems prototype combining electrical and electronic engineering with computer science: a low-cost ESP32 smart watering system.
 
 The system checks whether soil is dry. If the soil is too dry, it automatically turns on a small water pump for a few seconds. An LCD screen shows the soil reading and current system status.
 
