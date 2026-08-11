@@ -13,11 +13,6 @@ The system checks whether soil is dry. If the soil is too dry, it automatically 
 Soil moisture sensor → ESP32 → dryness threshold → water pump → plant
 
 In this project, I tested the sensor with real soil, calibrated the moisture threshold, assembled the hardware, debugged connection problems, and documented the process.
-## Overview
-
-This project is a low-cost ESP32-based smart watering system. It uses a soil moisture sensor to measure soil conditions and automatically controls a small water pump when the soil becomes dry.
-
-The project explores how sensor data and simple programming logic can support more efficient and data-driven irrigation.
 
 ## Research Question
 
