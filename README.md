@@ -1,5 +1,10 @@
 # Design and Preliminary Validation of a Low-Cost ESP32-Based Soil-Moisture Feedback Irrigation System
 
+## Plain-Language Summary
+
+Plants are often watered on a fixed schedule even when the soil is already wet. I built and tested a low-cost prototype that measures soil moisture and automatically activates a small pump only when the soil becomes dry.
+
+The system uses an ESP32, a soil-moisture sensor, an LCD screen, and a water pump. Based on my soil tests, I selected 2200 as the dry-soil threshold. The prototype successfully displayed live readings and automatically watered the soil when this threshold was reached.
 ## Project Background
 
 I first created a school science-communication project about climate change, SCL water-retention technology, and smart agriculture. I made a poster, recorded an introduction video, displayed the project at school, and collected 30 survey responses.
