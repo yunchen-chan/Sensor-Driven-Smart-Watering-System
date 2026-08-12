@@ -1,0 +1,56 @@
+experiment_round,sample_id,water_added_g,reading_number,adc_reading,threshold_adc,system_decision,validity,note
+1,R1-0g,0,1,3057,2200,Pump ON,Valid formal reading,Initial pilot sample
+1,R1-0g,0,2,3620,2200,Pump ON,Valid formal reading,Initial pilot sample
+1,R1-0g,0,3,3220,2200,Pump ON,Valid formal reading,Initial pilot sample
+1,R1-0g,0,4,3393,2200,Pump ON,Valid formal reading,Initial pilot sample
+1,R1-0g,0,5,3079,2200,Pump ON,Valid formal reading,Initial pilot sample
+1,R1-20g,20,1,1890,2200,Pump OFF,Valid formal reading,Initial pilot sample
+1,R1-20g,20,2,1904,2200,Pump OFF,Valid formal reading,Initial pilot sample
+1,R1-20g,20,3,1923,2200,Pump OFF,Valid formal reading,Initial pilot sample
+1,R1-20g,20,4,1825,2200,Pump OFF,Valid formal reading,Initial pilot sample
+1,R1-20g,20,5,1806,2200,Pump OFF,Valid formal reading,Initial pilot sample
+1,R1-40g,40,1,1102,2200,Pump OFF,Valid formal reading,Initial pilot sample
+1,R1-40g,40,2,1037,2200,Pump OFF,Valid formal reading,Initial pilot sample
+1,R1-40g,40,3,1208,2200,Pump OFF,Valid formal reading,Initial pilot sample
+1,R1-40g,40,4,1179,2200,Pump OFF,Valid formal reading,Initial pilot sample
+1,R1-40g,40,5,1089,2200,Pump OFF,Valid formal reading,Initial pilot sample
+2,R2-0g,0,1,3275,2200,Pump ON,Valid formal reading,Expanded calibration sample
+2,R2-0g,0,2,3329,2200,Pump ON,Valid formal reading,Expanded calibration sample
+2,R2-0g,0,3,3078,2200,Pump ON,Valid formal reading,Expanded calibration sample
+2,R2-0g,0,4,2997,2200,Pump ON,Valid formal reading,Expanded calibration sample
+2,R2-0g,0,5,3402,2200,Pump ON,Valid formal reading,Expanded calibration sample
+2,R2-10g,10,1,2483,2200,Pump ON,Valid formal reading,Exploratory intermediate level
+2,R2-10g,10,2,2496,2200,Pump ON,Valid formal reading,Exploratory intermediate level
+2,R2-10g,10,3,2052,2200,Pump OFF,Valid formal reading,Exploratory intermediate level
+2,R2-10g,10,4,2600,2200,Pump ON,Valid formal reading,Exploratory intermediate level
+2,R2-10g,10,5,2537,2200,Pump ON,Valid formal reading,Exploratory intermediate level
+2,R2-20g,20,1,1872,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+2,R2-20g,20,2,1928,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+2,R2-20g,20,3,1936,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+2,R2-20g,20,4,1706,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+2,R2-20g,20,5,1753,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+2,R2-30g,30,1,1243,2200,Pump OFF,Valid formal reading,Prediction-validation level; all five values measured
+2,R2-30g,30,2,1423,2200,Pump OFF,Valid formal reading,Prediction-validation level; all five values measured
+2,R2-30g,30,3,1496,2200,Pump OFF,Valid formal reading,Prediction-validation level; all five values measured
+2,R2-30g,30,4,1503,2200,Pump OFF,Valid formal reading,Prediction-validation level; all five values measured
+2,R2-30g,30,5,1322,2200,Pump OFF,Valid formal reading,Prediction-validation level; all five values measured
+2,R2-40g,40,1,1075,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+2,R2-40g,40,2,1123,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+2,R2-40g,40,3,1209,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+2,R2-40g,40,4,972,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+2,R2-40g,40,5,956,2200,Pump OFF,Valid formal reading,Expanded calibration sample
+3,R3-0g,0,1,3527,2200,Pump ON,Valid formal reading,Independent replicate
+3,R3-0g,0,2,3609,2200,Pump ON,Valid formal reading,Independent replicate
+3,R3-0g,0,3,3237,2200,Pump ON,Valid formal reading,Independent replicate
+3,R3-0g,0,4,3784,2200,Pump ON,Valid formal reading,Independent replicate
+3,R3-0g,0,5,3025,2200,Pump ON,Valid formal reading,Independent replicate
+3,R3-20g,20,1,1993,2200,Pump OFF,Valid formal reading,Independent replicate
+3,R3-20g,20,2,1827,2200,Pump OFF,Valid formal reading,Independent replicate
+3,R3-20g,20,3,1906,2200,Pump OFF,Valid formal reading,Independent replicate
+3,R3-20g,20,4,2007,2200,Pump OFF,Valid formal reading,Independent replicate
+3,R3-20g,20,5,1799,2200,Pump OFF,Valid formal reading,Independent replicate
+3,R3-40g,40,1,1199,2200,Pump OFF,Valid formal reading,Independent replicate
+3,R3-40g,40,2,1068,2200,Pump OFF,Valid formal reading,Independent replicate
+3,R3-40g,40,3,1307,2200,Pump OFF,Valid formal reading,Independent replicate
+3,R3-40g,40,4,1124,2200,Pump OFF,Valid formal reading,Independent replicate
+3,R3-40g,40,5,1035,2200,Pump OFF,Valid formal reading,Independent replicate
