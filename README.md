@@ -113,6 +113,13 @@ A controlled calibration experiment was conducted using three water-addition con
 
 📄 [Read the full soil-moisture calibration report](docs/soil-moisture-calibration-report.pdf)
 
+## Experimental Data
+
+The calibration dataset contains 15 formal ADC measurements collected under three water-addition conditions.
+
+- [View the raw calibration data (CSV)](data/soil_moisture_calibration_raw_data.csv)
+- [Download the dataset and statistical analysis (Excel)](data/soil_moisture_calibration_results.xlsx)
+
 ## License
 
 MIT License
