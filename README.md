@@ -107,6 +107,12 @@ This prototype developed from my earlier science-communication project about cli
 I also conducted a small student questionnaire about SCL technology, climate change, and sensor-guided smart agriculture. The survey received 30 valid responses and provided context for the design of this prototype.
 [View the survey results]
 
+## Research Report
+
+A controlled calibration experiment was conducted using three water-addition conditions (0 g, 20 g, and 40 g). The experiment includes repeated ADC measurements, statistical analysis, threshold evaluation, limitations, and photographic evidence.
+
+📄 [Read the full soil-moisture calibration report](docs/soil-moisture-calibration-report.pdf)
+
 ## License
 
 MIT License
