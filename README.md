@@ -136,7 +136,7 @@ I also conducted a small student questionnaire about SCL technology, climate cha
 
 A controlled calibration experiment was conducted using three water-addition conditions (0 g, 20 g, and 40 g). The experiment includes repeated ADC measurements, statistical analysis, threshold evaluation, limitations, and photographic evidence.
 
-📄 [Read the full soil-moisture calibration report](docs/soil-moisture-calibration-report.pdf)
+📄 [Read the full soil-moisture calibration report](reports/soil-moisture-calibration-report-updated.pdf)
 
 ## Experimental Data
 
