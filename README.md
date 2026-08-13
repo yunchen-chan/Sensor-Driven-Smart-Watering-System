@@ -143,7 +143,7 @@ A replicated calibration experiment was conducted across three experimental roun
 The calibration dataset contains 55 formal ADC measurements collected from 11 independently prepared samples across five water-addition conditions.
 
 - [View the raw calibration data (CSV)](data/soil_moisture_calibration_raw_data.csv)
-- [Download the dataset and statistical analysis (Excel)](data/soil_moisture_calibration_results.xlsx)
+- [Download the dataset and statistical analysis (Excel)](data/soil_moisture_calibration_results.xlsx?raw=1)
 
 ## License
 
