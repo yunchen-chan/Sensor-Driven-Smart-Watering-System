@@ -5,6 +5,31 @@
 Plants are often watered on a fixed schedule even when the soil is already wet. I built and tested a low-cost prototype that measures soil moisture and automatically activates a small pump only when the soil becomes dry.
 
 The system uses an ESP32, a soil-moisture sensor, an LCD screen, and a water pump. Based on my soil tests, I selected 2200 as the dry-soil threshold. The prototype successfully displayed live readings and automatically watered the soil when this threshold was reached.
+
+## Research Extension: Soil-Moisture Sensor Calibration
+
+To evaluate the reliability of the soil-moisture sensor, a replicated calibration study was conducted using independently prepared soil samples.
+
+- **Independent variable:** water added to the soil (0–40 g)
+- **Dependent variable:** ESP32 ADC reading
+- **Experimental rounds:** 3
+- **Independent soil samples:** 11
+- **Total ADC measurements:** 55
+- **Main replicated conditions:** 0 g, 20 g, and 40 g, each tested using three independently prepared samples
+- **Technical repeats:** five ADC readings per soil sample
+
+The results showed a consistent decrease in ADC reading as added water increased. The mean ADC readings for the replicated conditions were approximately:
+
+| Water added | Mean ADC reading |
+|---:|---:|
+| 0 g | 3308.8 |
+| 20 g | 1871.7 |
+| 40 g | 1112.2 |
+
+A descriptive linear fit across all five water levels produced an R² value of approximately 0.962. The initial prediction for the 30 g condition differed from the subsequently measured mean by approximately 7.1%.
+
+The complete raw dataset, statistical analysis, experimental protocol, limitations, and calibration graph are available in the [`data`](data/) folder.
+
 ## Project Background
 
 I first created a school science-communication project about climate change, SCL water-retention technology, and smart agriculture. I made a poster, recorded an introduction video, displayed the project at school, and collected 30 survey responses.
