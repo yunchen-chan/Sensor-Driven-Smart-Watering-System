@@ -88,7 +88,7 @@ Based on preliminary sensor observations, I hypothesized that a calibrated ADC t
 5. The system waits for 60 seconds before measuring again.
 6. If the soil is not dry, the LCD shows `MOIST OK`.
 
-## Testing and Calibration Results
+## Initial Prototype Testing Results
 
 | Soil condition | Raw ADC reading | System response |
 |---|---:|---|
