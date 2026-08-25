@@ -5,6 +5,11 @@
 Plants are often watered on a fixed schedule even when the soil is already wet. I built and tested a low-cost prototype that measures soil moisture and automatically activates a small pump only when the soil becomes dry.
 
 The system uses an ESP32, a soil-moisture sensor, an LCD screen, and a water pump. Based on my soil tests, I selected 2200 as the dry-soil threshold. The prototype successfully displayed live readings and automatically watered the soil when this threshold was reached.
+## Experimental Extension: Sensor Reliability under Saline Exposure
+
+I extended the smart-watering project into a controlled pilot study examining calibration drift in low-cost resistive soil-moisture sensors. Two sensors underwent 120 hours of unpowered exposure to 3.5% NaCl solution, while two sensors were exposed to tap water as controls. Both groups showed sensor-specific ADC changes, but this small pilot study did not demonstrate a consistent additional saline-specific drift across the tested moisture conditions.
+
+[View the complete 120-hour saline-exposure study, raw data, daily photographs, and analysis](experiments/saline_exposure_120h/)
 
 ## Research Extension: Soil-Moisture Sensor Calibration
 
