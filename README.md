@@ -135,8 +135,7 @@ This prototype developed from my earlier science-communication project about cli
 ## Survey Results
 
 I also conducted a small student questionnaire about SCL technology, climate change, and sensor-guided smart agriculture. The survey received 30 valid responses and provided context for the design of this prototype.
-[View the survey results]
-
+[View the survey results](Survey%20Results.docx)
 ## Research Report
 
 A replicated calibration experiment was conducted across three experimental rounds using five water-addition conditions (0 g, 10 g, 20 g, 30 g, and 40 g). The study includes 11 independently prepared samples, 55 formal ADC measurements, statistical analysis, threshold evaluation, limitations, and photographic evidence.
