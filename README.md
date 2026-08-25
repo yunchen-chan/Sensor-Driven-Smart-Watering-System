@@ -152,3 +152,7 @@ The calibration dataset contains 55 formal ADC measurements collected from 11 in
 ## License
 
 MIT License
+
+## AI Assistance
+
+Generative AI assisted with initial code drafting, debugging, data organization, and methodological discussion. I built the hardware, conducted the experiments, collected and verified all data, and took all photographs; AI generated or altered no experimental data.
