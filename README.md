@@ -59,7 +59,7 @@ The objective of this project is to design, calibrate, and preliminarily evaluat
 
 ## Hypothesis
 
-Based on preliminary sensor observations, I hypothesized that a calibrated ADC threshold could distinguish dry soil from adequately moist soil, trigger irrigation when necessary, and Detect low or near-zero abnormal soil-moisture readings.
+Based on preliminary sensor observations, I hypothesized that a calibrated ADC threshold could distinguish dry soil from adequately moist soil, trigger irrigation when necessary, and and detect low or near-zero abnormal soil-moisture readings
 
 ## Main Features
 
