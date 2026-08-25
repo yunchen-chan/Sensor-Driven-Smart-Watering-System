@@ -34,37 +34,37 @@ Photographs were taken throughout the 120-hour exposure period to document possi
 
 ### Day 0 - Before Exposure
 
-<img src="day0.jpg" alt="Day 0" width="600">
+<img src="day0.jpg" alt="Day 0" width="300">
 
 All four probes were photographed before immersion. S1 and S2 were assigned to the 3.5% NaCl exposure group, while C1 and C2 were assigned to the tap-water control group. The solutions were initially clear, and no obvious deposits or electrode discoloration were observed.
 
 ### Day 1
 
-<img src="day1.jpg" alt="Day 1" width="600">
+<img src="day1.jpg" alt="Day 1" width="300">
 No obvious changes in solution color, clarity, visible deposits, or electrode appearance were observed in either group.
 
 ### Day 2
 
-<img src="day2.jpg" alt="Day 2" width="600">
+<img src="day2.jpg" alt="Day 2" width="300">
 
 The solutions remained visually clear. No obvious macroscopic difference between the saline-exposure and tap-water-control groups was identified.
 
 ### Day 3
 
-<img src="day3.jpg" alt="Day 3" width="600">
+<img src="day3.jpg" alt="Day 3" width="300">
 
 No visible sediment or clear change in electrode appearance was observed under the photographic conditions.
 
 ### Day 4
 
-<img src="day4.jpg" alt="Day 4" width="600">
+<img src="day4.jpg" alt="Day 4" width="300">
 
 Both groups remained visually similar to the preceding days, with no obvious solution discoloration, deposits, or macroscopic electrode deterioration.
 
 ### Day 5 - 120-Hour Endpoint
 
 
-<img src="day5.jpg" alt="Day 5" width="600">
+<img src="day5.jpg" alt="Day 5" width="300">
 
 At the 120-hour endpoint, no clear macroscopic change in liquid color, deposits, or electrode appearance was observed in either group. However, the absence of visible change does not rule out smaller surface changes or changes in sensor performance that could only be detected through post-exposure ADC testing.
 
