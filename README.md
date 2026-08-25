@@ -77,6 +77,7 @@ Based on preliminary sensor observations, I hypothesized that a calibrated ADC t
 3. Based on these observations, a raw ADC value of 2200 was selected as the preliminary dryness threshold.
 4. The program averages five consecutive sensor readings to reduce short-term signal fluctuation.
 5. The pump, LCD, LED, and sensor-failure response were tested as parts of the complete automatic-control system.
+6. **Sampling note:** The calibration experiment and the final controller used separate sampling scripts. The calibration measurements used a 100 ms interval between readings, whereas `main.py` uses a 20 ms interval for its five-reading average.
    
 ## System Logic
 
