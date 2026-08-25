@@ -134,7 +134,7 @@ The core prototype has been built and tested successfully:
 - Add Wi-Fi data logging
 - Create a mobile dashboard
 - Compare water use with fixed-schedule watering
-- Add anonymized user-survey results about smart agriculture
+
 
 ## Project Context
 
