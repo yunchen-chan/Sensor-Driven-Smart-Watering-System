@@ -1,0 +1,61 @@
+record_id,sensor_test_order,group,sensor_id,exposure_liquid,water_added_g,trial,adc_reading,data_status,note
+1,1,Water control,C1,Tap water,0,1,4095,Formal post-exposure,ADC ceiling reading
+2,1,Water control,C1,Tap water,0,2,4095,Formal post-exposure,ADC ceiling reading
+3,1,Water control,C1,Tap water,0,3,4095,Formal post-exposure,ADC ceiling reading
+4,1,Water control,C1,Tap water,0,4,4095,Formal post-exposure,ADC ceiling reading
+5,1,Water control,C1,Tap water,0,5,4095,Formal post-exposure,ADC ceiling reading
+6,1,Water control,C1,Tap water,20,1,1007,Formal post-exposure,
+7,1,Water control,C1,Tap water,20,2,1003,Formal post-exposure,
+8,1,Water control,C1,Tap water,20,3,998,Formal post-exposure,
+9,1,Water control,C1,Tap water,20,4,992,Formal post-exposure,
+10,1,Water control,C1,Tap water,20,5,989,Formal post-exposure,
+11,1,Water control,C1,Tap water,40,1,674,Formal post-exposure,
+12,1,Water control,C1,Tap water,40,2,682,Formal post-exposure,
+13,1,Water control,C1,Tap water,40,3,686,Formal post-exposure,
+14,1,Water control,C1,Tap water,40,4,688,Formal post-exposure,
+15,1,Water control,C1,Tap water,40,5,690,Formal post-exposure,
+16,2,Saline exposure,S1,3.5% NaCl solution,0,1,3755,Formal post-exposure,
+17,2,Saline exposure,S1,3.5% NaCl solution,0,2,3757,Formal post-exposure,
+18,2,Saline exposure,S1,3.5% NaCl solution,0,3,3759,Formal post-exposure,
+19,2,Saline exposure,S1,3.5% NaCl solution,0,4,3759,Formal post-exposure,
+20,2,Saline exposure,S1,3.5% NaCl solution,0,5,3759,Formal post-exposure,
+21,2,Saline exposure,S1,3.5% NaCl solution,20,1,1040,Formal post-exposure,
+22,2,Saline exposure,S1,3.5% NaCl solution,20,2,1041,Formal post-exposure,
+23,2,Saline exposure,S1,3.5% NaCl solution,20,3,1044,Formal post-exposure,
+24,2,Saline exposure,S1,3.5% NaCl solution,20,4,1046,Formal post-exposure,
+25,2,Saline exposure,S1,3.5% NaCl solution,20,5,1044,Formal post-exposure,
+26,2,Saline exposure,S1,3.5% NaCl solution,40,1,624,Formal post-exposure,
+27,2,Saline exposure,S1,3.5% NaCl solution,40,2,624,Formal post-exposure,
+28,2,Saline exposure,S1,3.5% NaCl solution,40,3,626,Formal post-exposure,
+29,2,Saline exposure,S1,3.5% NaCl solution,40,4,627,Formal post-exposure,
+30,2,Saline exposure,S1,3.5% NaCl solution,40,5,624,Formal post-exposure,
+31,3,Saline exposure,S2,3.5% NaCl solution,0,1,4079,Formal post-exposure,
+32,3,Saline exposure,S2,3.5% NaCl solution,0,2,4079,Formal post-exposure,
+33,3,Saline exposure,S2,3.5% NaCl solution,0,3,4080,Formal post-exposure,
+34,3,Saline exposure,S2,3.5% NaCl solution,0,4,4082,Formal post-exposure,
+35,3,Saline exposure,S2,3.5% NaCl solution,0,5,4084,Formal post-exposure,
+36,3,Saline exposure,S2,3.5% NaCl solution,20,1,810,Formal post-exposure,
+37,3,Saline exposure,S2,3.5% NaCl solution,20,2,809,Formal post-exposure,
+38,3,Saline exposure,S2,3.5% NaCl solution,20,3,811,Formal post-exposure,
+39,3,Saline exposure,S2,3.5% NaCl solution,20,4,813,Formal post-exposure,
+40,3,Saline exposure,S2,3.5% NaCl solution,20,5,814,Formal post-exposure,
+41,3,Saline exposure,S2,3.5% NaCl solution,40,1,566,Formal post-exposure,
+42,3,Saline exposure,S2,3.5% NaCl solution,40,2,569,Formal post-exposure,
+43,3,Saline exposure,S2,3.5% NaCl solution,40,3,570,Formal post-exposure,
+44,3,Saline exposure,S2,3.5% NaCl solution,40,4,572,Formal post-exposure,
+45,3,Saline exposure,S2,3.5% NaCl solution,40,5,575,Formal post-exposure,
+46,4,Water control,C2,Tap water,0,1,4095,Formal post-exposure,ADC ceiling reading
+47,4,Water control,C2,Tap water,0,2,4095,Formal post-exposure,ADC ceiling reading
+48,4,Water control,C2,Tap water,0,3,4095,Formal post-exposure,ADC ceiling reading
+49,4,Water control,C2,Tap water,0,4,4095,Formal post-exposure,ADC ceiling reading
+50,4,Water control,C2,Tap water,0,5,4095,Formal post-exposure,ADC ceiling reading
+51,4,Water control,C2,Tap water,20,1,689,Formal post-exposure,
+52,4,Water control,C2,Tap water,20,2,698,Formal post-exposure,
+53,4,Water control,C2,Tap water,20,3,704,Formal post-exposure,
+54,4,Water control,C2,Tap water,20,4,709,Formal post-exposure,
+55,4,Water control,C2,Tap water,20,5,716,Formal post-exposure,
+56,4,Water control,C2,Tap water,40,1,546,Formal post-exposure,
+57,4,Water control,C2,Tap water,40,2,550,Formal post-exposure,
+58,4,Water control,C2,Tap water,40,3,553,Formal post-exposure,
+59,4,Water control,C2,Tap water,40,4,558,Formal post-exposure,
+60,4,Water control,C2,Tap water,40,5,559,Formal post-exposure,

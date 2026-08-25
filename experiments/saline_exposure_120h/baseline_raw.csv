@@ -1,0 +1,61 @@
+record_id,group,sensor_id,exposure_liquid,water_added_g,trial,adc_reading,data_status,note
+1,Saline exposure,S1,3.5% NaCl solution,0,1,3923,Formal baseline,
+2,Saline exposure,S1,3.5% NaCl solution,0,2,3920,Formal baseline,
+3,Saline exposure,S1,3.5% NaCl solution,0,3,3920,Formal baseline,
+4,Saline exposure,S1,3.5% NaCl solution,0,4,3923,Formal baseline,
+5,Saline exposure,S1,3.5% NaCl solution,0,5,3926,Formal baseline,
+6,Saline exposure,S1,3.5% NaCl solution,20,1,1013,Formal baseline,
+7,Saline exposure,S1,3.5% NaCl solution,20,2,1010,Formal baseline,
+8,Saline exposure,S1,3.5% NaCl solution,20,3,1008,Formal baseline,
+9,Saline exposure,S1,3.5% NaCl solution,20,4,1008,Formal baseline,
+10,Saline exposure,S1,3.5% NaCl solution,20,5,1006,Formal baseline,
+11,Saline exposure,S1,3.5% NaCl solution,40,1,661,Formal baseline,
+12,Saline exposure,S1,3.5% NaCl solution,40,2,660,Formal baseline,
+13,Saline exposure,S1,3.5% NaCl solution,40,3,659,Formal baseline,
+14,Saline exposure,S1,3.5% NaCl solution,40,4,656,Formal baseline,
+15,Saline exposure,S1,3.5% NaCl solution,40,5,655,Formal baseline,
+16,Saline exposure,S2,3.5% NaCl solution,0,1,4095,Formal baseline,ADC ceiling reading
+17,Saline exposure,S2,3.5% NaCl solution,0,2,4095,Formal baseline,ADC ceiling reading
+18,Saline exposure,S2,3.5% NaCl solution,0,3,4095,Formal baseline,ADC ceiling reading
+19,Saline exposure,S2,3.5% NaCl solution,0,4,4095,Formal baseline,ADC ceiling reading
+20,Saline exposure,S2,3.5% NaCl solution,0,5,4095,Formal baseline,ADC ceiling reading
+21,Saline exposure,S2,3.5% NaCl solution,20,1,1134,Formal baseline,
+22,Saline exposure,S2,3.5% NaCl solution,20,2,1131,Formal baseline,
+23,Saline exposure,S2,3.5% NaCl solution,20,3,1125,Formal baseline,
+24,Saline exposure,S2,3.5% NaCl solution,20,4,1121,Formal baseline,
+25,Saline exposure,S2,3.5% NaCl solution,20,5,1116,Formal baseline,
+26,Saline exposure,S2,3.5% NaCl solution,40,1,850,Formal baseline,
+27,Saline exposure,S2,3.5% NaCl solution,40,2,850,Formal baseline,
+28,Saline exposure,S2,3.5% NaCl solution,40,3,849,Formal baseline,
+29,Saline exposure,S2,3.5% NaCl solution,40,4,847,Formal baseline,
+30,Saline exposure,S2,3.5% NaCl solution,40,5,847,Formal baseline,
+31,Water control,C1,Tap water,0,1,4095,Formal baseline,ADC ceiling reading
+32,Water control,C1,Tap water,0,2,4095,Formal baseline,ADC ceiling reading
+33,Water control,C1,Tap water,0,3,4095,Formal baseline,ADC ceiling reading
+34,Water control,C1,Tap water,0,4,4095,Formal baseline,ADC ceiling reading
+35,Water control,C1,Tap water,0,5,4095,Formal baseline,ADC ceiling reading
+36,Water control,C1,Tap water,20,1,1190,Formal baseline,
+37,Water control,C1,Tap water,20,2,1182,Formal baseline,
+38,Water control,C1,Tap water,20,3,1175,Formal baseline,
+39,Water control,C1,Tap water,20,4,1169,Formal baseline,
+40,Water control,C1,Tap water,20,5,1165,Formal baseline,
+41,Water control,C1,Tap water,40,1,701,Formal baseline,
+42,Water control,C1,Tap water,40,2,699,Formal baseline,
+43,Water control,C1,Tap water,40,3,698,Formal baseline,
+44,Water control,C1,Tap water,40,4,700,Formal baseline,
+45,Water control,C1,Tap water,40,5,696,Formal baseline,
+46,Water control,C2,Tap water,0,1,4095,Formal baseline,ADC ceiling reading
+47,Water control,C2,Tap water,0,2,4095,Formal baseline,ADC ceiling reading
+48,Water control,C2,Tap water,0,3,4095,Formal baseline,ADC ceiling reading
+49,Water control,C2,Tap water,0,4,4095,Formal baseline,ADC ceiling reading
+50,Water control,C2,Tap water,0,5,4095,Formal baseline,ADC ceiling reading
+51,Water control,C2,Tap water,20,1,1006,Formal baseline,
+52,Water control,C2,Tap water,20,2,1006,Formal baseline,
+53,Water control,C2,Tap water,20,3,1006,Formal baseline,
+54,Water control,C2,Tap water,20,4,1007,Formal baseline,
+55,Water control,C2,Tap water,20,5,1007,Formal baseline,
+56,Water control,C2,Tap water,40,1,717,Formal baseline,
+57,Water control,C2,Tap water,40,2,719,Formal baseline,
+58,Water control,C2,Tap water,40,3,718,Formal baseline,
+59,Water control,C2,Tap water,40,4,719,Formal baseline,
+60,Water control,C2,Tap water,40,5,720,Formal baseline,

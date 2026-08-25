@@ -1,0 +1,17 @@
+summary_level,water_added_g,group,sensor_id,baseline_mean_adc,post_mean_adc,drift_adc,baseline_sd_adc,post_sd_adc,analysis_status
+Individual sensor,0,Saline exposure,S1,3922.4,3757.8,-164.6,2.51,1.79,Descriptive dry-end result
+Individual sensor,20,Saline exposure,S1,1009,1043,34,2.65,2.45,Formal paired drift estimate
+Individual sensor,40,Saline exposure,S1,658.2,625,-33.2,2.59,1.41,Formal paired drift estimate
+Individual sensor,0,Saline exposure,S2,4095,4080.8,,0,2.17,Baseline dry-end value was ceiling-censored at 4095; exact drift not estimated
+Individual sensor,20,Saline exposure,S2,1125.4,811.4,-314,7.3,2.07,Formal paired drift estimate
+Individual sensor,40,Saline exposure,S2,848.6,570.4,-278.2,1.52,3.36,Formal paired drift estimate
+Individual sensor,0,Water control,C1,4095,4095,,0,0,Baseline dry-end value was ceiling-censored at 4095; exact drift not estimated
+Individual sensor,20,Water control,C1,1176.2,997.8,-178.4,10.03,7.46,Formal paired drift estimate
+Individual sensor,40,Water control,C1,698.8,684,-14.8,1.92,6.32,Formal paired drift estimate
+Individual sensor,0,Water control,C2,4095,4095,,0,0,Baseline dry-end value was ceiling-censored at 4095; exact drift not estimated
+Individual sensor,20,Water control,C2,1006.4,703.2,-303.2,0.55,10.33,Formal paired drift estimate
+Individual sensor,40,Water control,C2,718.6,553.2,-165.4,1.14,5.45,Formal paired drift estimate
+Group mean,20,Saline exposure,GROUP_MEAN,1067.2,927.2,-140,,,Descriptive group mean; n=2 independent sensors
+Group mean,20,Water control,GROUP_MEAN,1091.3,850.5,-240.8,,,Descriptive group mean; n=2 independent sensors
+Group mean,40,Saline exposure,GROUP_MEAN,753.4,597.7,-155.7,,,Descriptive group mean; n=2 independent sensors
+Group mean,40,Water control,GROUP_MEAN,708.7,618.6,-90.1,,,Descriptive group mean; n=2 independent sensors
