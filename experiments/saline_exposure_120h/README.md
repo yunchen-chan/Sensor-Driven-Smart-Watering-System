@@ -28,6 +28,46 @@ How does 120 hours of unpowered exposure to a 3.5% sodium chloride solution affe
 * Exposure condition: unpowered immersion for 120 hours
 
 At the endpoint, the sensors were tested in the order C1 → S1 → S2 → C2. Within each sensor, the measurement order was 0 g → 20 g → 40 g.
+## Daily Visual Record
+
+Photographs were taken throughout the 120-hour exposure period to document possible changes in solution clarity, deposits, and electrode appearance. The photographs are qualitative supporting evidence only and were not treated as quantitative measurements of corrosion.
+
+### Day 0 - Before Exposure
+
+![Day 0](day0.jpg)
+
+All four probes were photographed before immersion. S1 and S2 were assigned to the 3.5% NaCl exposure group, while C1 and C2 were assigned to the tap-water control group. The solutions were initially clear, and no obvious deposits or electrode discoloration were observed.
+
+### Day 1
+
+![Day 1](day1.jpg)
+
+No obvious changes in solution color, clarity, visible deposits, or electrode appearance were observed in either group.
+
+### Day 2
+
+![Day 2](day2.jpg)
+
+The solutions remained visually clear. No obvious macroscopic difference between the saline-exposure and tap-water-control groups was identified.
+
+### Day 3
+
+![Day 3](day3.jpg)
+
+No visible sediment or clear change in electrode appearance was observed under the photographic conditions.
+
+### Day 4
+
+![Day 4](day4.jpg)
+
+Both groups remained visually similar to the preceding days, with no obvious solution discoloration, deposits, or macroscopic electrode deterioration.
+
+### Day 5 - 120-Hour Endpoint
+
+![Day 5](day5.jpg)
+
+At the 120-hour endpoint, no clear macroscopic change in liquid color, deposits, or electrode appearance was observed in either group. However, the absence of visible change does not rule out smaller surface changes or changes in sensor performance that could only be detected through post-exposure ADC testing.
+
 
 ## Paired ADC Results
 
