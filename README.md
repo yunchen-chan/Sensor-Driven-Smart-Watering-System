@@ -1,4 +1,5 @@
 # Design and Preliminary Validation of a Low-Cost ESP32-Based Soil-Moisture Feedback Irrigation System
+**Project demo:** [Watch the 90-second ESP32 smart-irrigation demonstration](https://www.youtube.com/watch?v=iZePK49Ct60)
 
 ## Plain-Language Summary
 
